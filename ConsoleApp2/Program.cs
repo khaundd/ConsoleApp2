@@ -22,6 +22,6 @@ else if (powC < powA + powB)
 
 //Console.WriteLine($"c = {c}");
 //Console.WriteLine($"a^2 = {powA}");
-//Console.WriteLine($"b^2 = {powB}");
-//Console.WriteLine($"c^2 = {powC}");
 //Console.WriteLine($"a^2+b^2 = {powA + powB}");
+//Console.WriteLine();
+
